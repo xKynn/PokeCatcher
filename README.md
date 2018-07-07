@@ -12,9 +12,9 @@ Wait for our bot to PM you, so please keep PMs from anyone enabled.
 After our bot has PMed you, follow the instructions to get verified, any problems with verification can be handled and taken up with Demo#9465.  
   
 ### Setting Up 
-1. You need to have python 3.6 or newer to be able to run this on your device. grab python [here] (https://www.python.org/downloads/latest).  
+1. You need to have python 3.6 or newer to be able to run this on your device. grab python [here](https://www.python.org/downloads/latest).  
 2. While installing this make sure you tick to install python in PATH, and the option to insall the 'py launcher'.  
-3. Once this is done, run setup.bat. This should install all the required dependencies for running the bot.  
+3. Once this is done, run setup.bat as administrator. This should install all the required dependencies for running the bot.  
 4. You will require the token of the account you want to run this bot on, it's better if it's an alt as selfbots violate ToS and you can get banned.  
 To grab your token visit [Token Tutorial](https://github.com/TheRacingLion/Discord-SelfBot/wiki/Discord-Token-Tutorial).  
 
