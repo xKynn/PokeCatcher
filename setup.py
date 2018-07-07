@@ -17,4 +17,4 @@ else:
         copyfile(f'64-bit/{file}', file)
 pip.main(['install', "opencv_python==3.4.1.15"])
 pip.main(['install', "https://github.com/Rapptz/discord.py/archive/rewrite.zip#egg=discord.py"])
-pip.main(['install', "PyJWT==1.6.4 "])
+pip.main(['install', "pyjwt"])
