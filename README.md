@@ -61,9 +61,31 @@ Example config:
 
 You can use this as a reference to modify your config.json.
 
+### Spammer Accounts  
+These will accept commands from the controller account. A command is given by @tag commandname.  
+To start spam in a channel, tag the account and say 'hi', alternatively to stop do the same but say 'bye'.
+The accounts will automatically accept trades when you confirm your trade
+Other commands:
+- `add` : Use this to queue up pokemon you want to level.  
+The format is `@tag add number target number2 target2 number3 target3`.  
+Example: `@tag add 1 45 2 60 3 100`  
+- `list` : Use this to show you what number pokemon are queued for what target level.  
+Example: `@tag list`  
+- `remove`: Use this to remove numbers from the levelling queue.  
+Example: `@tag remove 1 7`
+- `mimic`: This means if your text after the tag is none of the above commands, the account will repeat what you say
+Example `@tag p!p add 2`
+### Dueler Accounts  
+These will start dueling as soon as the bot starts them.  
+The only command available is `mimic`, which is exactly like the `mimic` from Spammers  
+### PRO: Tips  
+- Remove `Create Instant Invite` and `Read Message History` Permissions from the Pokecord Bot.  
+- Keep channels separate and organized to prevent any interference with the running bots
 ### Running the bot
 Run `run.bat`.  
-
+### Quitting the bot  
+You can press Ctrl + C in the console window to quit the bot.  
+Alternatively if this doesn't work, run quit.bat
 ## Bug reports and problems
 
 Please open an issue on this repo, you can do this from the issues tab on the top and I'll take a look at it when I can.
