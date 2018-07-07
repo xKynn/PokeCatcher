@@ -13,7 +13,8 @@ To grab your token visit [Token Tutorial](https://github.com/TheRacingLion/Disco
 
 ### Config  
 
-Open config.json up with any text editor, now put your token in the "".  
+Open edit-this-example-config.json up with any text editor, now put your token in the "".  
+After you are done editing this config, please rename the file to `config.json`.  
 Other options in config are:  
  - priority: In this list you can add pokemon that bypass the catch rate, pokemon that you absolutely want to catch.
  - catch_rate: This is a percent out of 100.
