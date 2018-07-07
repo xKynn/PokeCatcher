@@ -84,7 +84,7 @@ Example: `@tag remove 1 7`
 Example `@tag p!p add 2`
   
 ### Dueler Accounts  
-These will start dueling as soon as the bot starts them.  
+These will start dueling as soon as the bot starts them. Duelers also always use move 1 in battles, if changing this is a feature people want it can be implemented if enough people need it.  
 The only command available is `mimic`, which is exactly like the `mimic` from Spammers  
   
 ### PRO: Tips  
