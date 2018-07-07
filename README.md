@@ -90,6 +90,7 @@ The only command available is `mimic`, which is exactly like the `mimic` from Sp
 ### PRO: Tips  
 - Remove `Create Instant Invite` and `Read Message History` Permissions from the Pokecord Bot.  
 - Keep channels separate and organized to prevent any interference with the running bots
+- Use the redirect spawns feature and whitelist that channel in the config to not let your bot accidentally catch on different servers and also help keep it neat! 
 ### Running the bot
 Run `run.bat`.  
 ### Quitting the bot  
