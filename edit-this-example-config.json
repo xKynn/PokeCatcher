@@ -1,0 +1,19 @@
+{
+  "token": "<your token>",
+  "priority": ["Groudon", "Geodude"],
+  "catch_rate": 90,
+  "delay": 2,
+  "delay_on_priority": true,
+  "priority_only": false,
+  "avoid_list": ["Rattata", "Poochyena"],
+  "whitelist_channels": [369081842038603776, 369081842038603779],
+  "blacklist_channels": [],
+  "spammers": ["MjAzOMzE4MTUwOTU1MDA4.DhTj7g.XLuUPCKUGbr9AIgWZ5F-y-Iynas",
+  "MTkxNjA0MTM2OTQzMjg4w.DhTkHQ.NL6xqM3Gd1m-9fWWKrBETumzcIw"],
+  "controller": 203819318150955008,
+  "duel_starters": [[4614564781424640, "NDYxNDU2NDcxOTgxNDI0NDhTlDQ.3PWYIwnt7v4gGGfjUDgy7z1AqnI"],
+                    [4593307651436554, "NDU5MzMwNzU1DM2NTU0.DhTjSg.cEX2RS7EwrtA5Q4Cj1z1fmt5_IY"]],
+  "duel_accepters":[[461458938483211, "NDYxNDU4MDc3OTM4NDgzMjEx.Dhw.7MZ2M26M8BfNMsUCZK6wjsfQgTs"],
+                    [191604133288320, "MTkxNjAOTQzMjg4MzIw.DhTkHQ.NL6xqM3Gd1m-9fWWKrBETumzcIw"]],
+  "duel_channels": [461455567862274, 46229604275200]
+}
