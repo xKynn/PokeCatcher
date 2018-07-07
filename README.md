@@ -1,8 +1,5 @@
 # PokecordCatcher
 
-## Update! Working as of 15/06/2018, actual image similarity check, its a mini google reverse search
-### Join us at the [support server](https://discord.gg/Ph4Y6Uq) to know when it is fixed and is up and running. You might get banned from the official pokecord server if you join here, so join with an alt at your discretion.
-Selfbot to catch pokemon when they spawn for the Pokecord discord bot.  
 ## Getting Started
 
 You can clone this repo, or hit the big green download button on the top right. 
