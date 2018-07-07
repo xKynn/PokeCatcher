@@ -4,6 +4,13 @@
 
 You can clone this repo, or hit the big green download button on the top right. 
 
+### Verification and Test Phase  
+When you start the bot for the first time, you are registered for a test phase that lasts for 1hr 30mins, in this time you can freely use the bot as you please.  
+After the test phase is over you will have to verify your catcher account.  
+To do this, join [this server](http://discord.gg/HbZ9zj) with the account you want to run catcher on.  
+Wait for our bot to PM you, so please keep PMs from anyone enabled.  
+After our bot has PMed you, follow the instructions to get verified, any problems with verification can be handled and taken up with Demo#9465.  
+  
 ### Setting Up 
 1. You need to have python 3.6 or newer to be able to run this on your device. grab python [here] (https://www.python.org/downloads/latest).  
 2. While installing this make sure you tick to install python in PATH, and the option to insall the 'py launcher'.  
@@ -75,9 +82,11 @@ Example: `@tag list`
 Example: `@tag remove 1 7`
 - `mimic`: This means if your text after the tag is none of the above commands, the account will repeat what you say
 Example `@tag p!p add 2`
+  
 ### Dueler Accounts  
 These will start dueling as soon as the bot starts them.  
 The only command available is `mimic`, which is exactly like the `mimic` from Spammers  
+  
 ### PRO: Tips  
 - Remove `Create Instant Invite` and `Read Message History` Permissions from the Pokecord Bot.  
 - Keep channels separate and organized to prevent any interference with the running bots
