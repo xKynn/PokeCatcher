@@ -32,8 +32,8 @@ Other options in config are:
  - duel_starter: A list of of account Ids and tokens for duel starter accounts. for example.  
  [[id1, token1], [id2, token2], [id3, token3]]
  - duel_accepter: Same format as duel_starter, but these accounts will accept duels from starters only.
- - duel_channels: A list of channels each pair will duel in, this should coincide with the order of duel ids/tokens, id1:token1 starter will duel id2:token2 accepter in channelid1.
- [channelid1, channelid2, channelid3]
+ - duel_channels: A list of channels each pair will duel in, this should coincide with the order of duel ids/tokens, id1:token1 starter will duel id1:token1 accepter in channelid1.
+ Example: [channelid1, channelid2, channelid3]
 
 Example config:
 ```
