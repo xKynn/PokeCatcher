@@ -3,6 +3,9 @@
 ## Getting Started
 
 You can clone this repo, or hit the big green download button on the top right. 
+  
+You can also join the support server [here](https://discord.gg/FcYWgdB).  
+Please join this server only with an account that you do not plan to use with this catcher, as it has a high chance of being banned.
 
 ### Verification and Test Phase  
 When you start the bot for the first time, you are registered for a test phase that lasts for 1hr 30mins, in this time you can freely use the bot as you please.  
