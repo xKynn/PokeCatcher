@@ -7,7 +7,7 @@ You can clone this repo, or hit the big green download button on the top right.
 ### Verification and Test Phase  
 When you start the bot for the first time, you are registered for a test phase that lasts for 1hr 30mins, in this time you can freely use the bot as you please.  
 After the test phase is over you will have to verify your catcher account.  
-To do this, join [this server](http://discord.gg/HbZ9zj) with the account you want to run catcher on.  
+To do this, join [this server](https://discord.gg/VchEPe6) with the account you want to run catcher on.  
 Wait for our bot to PM you, so please keep PMs from anyone enabled.  
 After our bot has PMed you, follow the instructions to get verified, any problems with verification can be handled and taken up with Demo#9465.  
   
